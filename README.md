@@ -20,4 +20,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/project-tracking-intro-component-react/assets/13519212/c42a6cd9-525f-4253-87ad-4e4bccc56a65)
